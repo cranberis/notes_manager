@@ -1,0 +1,18 @@
+# Виртуальное окружение
+.venv/
+
+# Настройки VSCode
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Type checker
+.mypy_cache/
+
+# OS
+.DS_Store
+Thumbs.db
