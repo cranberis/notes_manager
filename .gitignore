@@ -17,5 +17,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Логи программы
+# Логи и данные программы
 logs/
+data/
